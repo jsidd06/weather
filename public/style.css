@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+.Weather {
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    top: 30%;
+}
+.Weather h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.Weather input {
+    padding: 5px;
+    margin: 8px;
+    border: none;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    outline: none;
+}
+.Weather input[type="submit"] {
+    width: 10%;
+} 
